@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--# Hi 👋 I'm Raghav
+<!-# Hi 👋 I'm Raghav
 
 🎓 Computer Science Student  
 🚀 DevOps | Machine Learning | Cloud Enthusiast  
